@@ -48,8 +48,8 @@ Accuracy: ~98%
 
 ## 📁 Files
 
-- main.py → sklearn implementation
-- self_main.py → custom Naive Bayes implementation
+- train_sklearn_nb.py → sklearn implementation
+- custom_main.py → custom Naive Bayes implementation
 
 ---
 
